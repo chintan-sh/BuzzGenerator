@@ -5,12 +5,12 @@
 
 Starter App for CI/CD pipelining.
 
-## What does the app contain?
+## What does the app do?
 
-- List of Buzz words, adjectives, adverbs and verbs.
-- Based on random generator function, program generates sentence containing mix of buzzwords, adverbs et al.
-- Travis then runs the test generator to test correctness
-- On success, gets deployed over Docker hub and then Heroku
+- Based on random generator function, program generates a sentence containing mix of buzzwords, adverbs et al.
+- Travis then runs tests for correctness
+- On success, a docker image (containing the app) gets created and gets deployed over Docker Hub
+- Finally, Heroku pulls this image from Docker Hub and app gets deployed
 
 ## License
 
