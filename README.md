@@ -12,6 +12,7 @@ Starter App for CI/CD pipelining.
 - On success, a docker image (containing the app) gets created and gets deployed over Docker Hub
 - Finally, Heroku pulls this image from Docker Hub and app gets deployed
 
+
 ## License
 
 This code is distributed under the MIT license. For more info, read the [LICENSE][license] file distributed with the source code.
