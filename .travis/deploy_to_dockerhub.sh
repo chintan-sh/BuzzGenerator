@@ -5,5 +5,5 @@ if [ "$TRAVIS_BRANCH" = "master" ]; then
 else
     TAG="$TRAVIS_BRANCH"
 fi
-docker build -f Dockerfile -t chintan-sh/buzzgenerator:$TAG .   #$TRAVIS_REPO_SLUG
-docker push chintan-sh/buzzgenerator:$TAG #$TRAVIS_REPO_SLUG
+docker build -f Dockerfile -t c0defella/buzzgenerator:$TAG .   #$TRAVIS_REPO_SLUG
+docker push c0defella/buzzgenerator:$TAG #$TRAVIS_REPO_SLUG
