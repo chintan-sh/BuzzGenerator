@@ -2,6 +2,7 @@
 
 [![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()
 [![Build Status](https://travis-ci.org/chintan-sh/BuzzGenerator.svg?branch=master)](https://travis-ci.org/chintan-sh/BuzzGenerator)
+[![Website](https://img.shields.io/website/https/searchneu.com.svg)](http://buzzgen.herokuapp.com)
 
 Starter App for CI/CD pipelining.
 
@@ -12,6 +13,9 @@ Starter App for CI/CD pipelining.
 - On success, a docker image (containing the app) gets created and gets deployed over Docker Hub
 - Finally, Heroku pulls this image from Docker Hub and app gets deployed
 
+## Demo
+
+You can check the demo [here](http://buzzgen.herokuapp.com).
 
 ## License
 
