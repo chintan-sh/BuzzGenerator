@@ -6,6 +6,9 @@
 
 Starter App for CI/CD pipelining.
 
+![alt text](https://www.dropbox.com/s/lu7diao603ipmmx/CI_CD_pipeline.png "Process Image")
+
+
 ## What does the app do?
 
 - Based on random generator function, program generates a sentence containing mix of buzzwords, adverbs et al.
