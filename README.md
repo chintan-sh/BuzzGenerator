@@ -6,7 +6,7 @@
 
 Starter App for CI/CD pipelining.
 
-![alt text](https://www.dropbox.com/s/lu7diao603ipmmx/CI_CD_pipeline.png "Process Image")
+![alt text](https://cdn-images-1.medium.com/max/1000/1*z6dyw9e-wPWYxRYZWhSXKQ.png "Process Image")
 
 
 ## What does the app do?
